@@ -1,2 +1,2 @@
 # the-goat-shop
-this our own website
+This our own website
